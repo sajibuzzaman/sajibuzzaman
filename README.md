@@ -15,22 +15,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/uzzamansajib" target="blank"><img align="center"
+    <a href="https://twitter.com/uzzamansajib" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/twitter.svg" alt="uzzamansajib" height="30"
             width="40" /></a>
-    <a href="https://linkedin.com/in/sajibuzzaman-bd" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/sajibuzzaman-bd" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/linkedin.svg" alt="sajibuzzaman-bd" height="30"
             width="40" /></a>
-    <a href="https://stackoverflow.com/users/14381439/sajib-uzzaman" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/14381439/sajib-uzzaman" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/stackoverflow.svg" alt="14381439/sajib-uzzaman"
             height="30" width="40" /></a>
-    <a href="https://fb.com/sajibuzzaman98" target="blank"><img align="center"
+    <a href="https://fb.com/sajibuzzaman98" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/facebook.svg" alt="sajibuzzaman98" height="30"
             width="40" /></a>
-    <a href="https://instagram.com/sajib_uzzaman" target="blank"><img align="center"
+    <a href="https://instagram.com/sajib_uzzaman" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" alt="sajib_uzzaman" height="30"
             width="40" /></a>
-    <a href="https://www.youtube.com/c/sajibuzzaman" target="blank"><img align="center"
+    <a href="https://www.youtube.com/c/sajibuzzaman" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/youtube.svg" alt="sajibuzzaman" height="30"
             width="40" /></a>
 </p>
