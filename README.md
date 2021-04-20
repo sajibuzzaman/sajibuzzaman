@@ -7,10 +7,6 @@
         src="https://komarev.com/ghpvc/?username=sajibuzzaman&label=Profile%20views&color=0e75b6&style=flat"
         alt="sajibuzzaman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/uzzamansajib" target="blank"><img
-            src="https://img.shields.io/twitter/follow/uzzamansajib?logo=twitter&style=for-the-badge"
-            alt="uzzamansajib" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
 
 - 💬 Ask me about **Django, HTML, CSS, Bootstrap**
