@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
 
-- 💬 Ask me about **Django, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Python, Django, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **sajib.butterfly@gmail.com**
 
