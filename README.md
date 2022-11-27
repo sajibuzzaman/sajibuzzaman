@@ -7,9 +7,9 @@
         src="https://komarev.com/ghpvc/?username=sajibuzzaman&label=Profile%20views&color=0e75b6&style=flat"
         alt="sajibuzzaman" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security & Ethical Hacking, ReactJS**
+- 🌱 I’m currently learning **Cyber Security & Ethical Hacking**
 
-- 💬 Ask me about **Python, Django, HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **JavaScript, NodeJS, ReactJS, Python, Django, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **sajib.butterfly@gmail.com**
 
