@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **JavaScript, NodeJS, ReactJS, Python, Django, HTML, CSS, Bootstrap, Tailwind, Material UI**
+- 💬 Ask me about **JavaScript, Python, Cloud Computitng, Microservices, Docker, Kubernetes, AWS, GCP, IBM Cloud**
 
 - 📫 How to reach me **sajib.butterfly@gmail.com**
 
